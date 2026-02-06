@@ -1,4 +1,4 @@
-[![Linkedin]([https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D4D03AQFD_GqRvRDVYA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1715816026122?e=1772064000&v=beta&t=6HPOqMahJp4CeXSmQAnj9QYYasY2A8Disx7BVkXXFqY))](www.linkedin.com/in/bruno-battisti-15422b212)
+[![Linkedin]](www.linkedin.com/in/bruno-battisti-15422b212)
 
 Tecnologias:
 <div style="display: inline_block"><br>
