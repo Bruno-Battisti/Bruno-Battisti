@@ -1,6 +1,6 @@
 # Bruno Battisti
 
-Desenvolvedor Full Stack com experiência no desenvolvimento de aplicações web utilizando React, TypeScript, Node.js e PostgreSQL. Busco criar soluções escaláveis, de alta qualidade e alinhadas às boas práticas de engenharia de software, com foco em desempenho, manutenibilidade e experiência do usuário.
+Full Stack Developer experienced in building web applications using React, TypeScript, Node.js, and PostgreSQL. I aim to create scalable, high-quality solutions aligned with software engineering best practices, focusing on performance, maintainability, and user experience.
 
 ## Contato
 
