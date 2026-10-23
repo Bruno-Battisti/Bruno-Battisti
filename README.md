@@ -54,9 +54,9 @@ Full Stack Developer focused on building modern, scalable, and maintainable appl
 
 # About Me
 
-I am a Full Stack Developer with experience building web and mobile applications. I primarily work with the **JavaScript/TypeScript ecosystem**, working across both interface development and API and integration development.
+Full Stack Developer with experience building web and mobile applications. Primarily working with the **JavaScript/TypeScript ecosystem**, working across both interface development and API and integration development.
 
-I have a particular interest in **software architecture, performance, scalability, and software development best practices**.
+I have a particular interest in **software architecture, performance and scalability**.
 
 I am constantly looking to learn new technologies and turn knowledge into real-world projects and solutions.
 
